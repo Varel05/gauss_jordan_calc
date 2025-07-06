@@ -34,10 +34,10 @@ Proyek ini adalah aplikasi *client-side* murni, yang berarti Anda tidak memerluk
 
 1. **Kloning Repositori (Opsional)**: Jika ini adalah repositori Git, Anda bisa mengkloningnya:
    ```bash
-   git clone <URL_REPOSITORI_ANDA>
-   cd <NAMA_FOLDER_PROYEK>
+   git clone https://github.com/Varel05/gauss_jordan_calc.git
+   cd gauss_jordan_calc
    ```
-2. **Unduh File (Alternatif)**: Jika tidak menggunakan Git, cukup unduh file `gauss_jordan.html` (atau nama file HTML yang Anda gunakan) ke komputer Anda.
+2. **Unduh File (Alternatif)**: Jika tidak menggunakan Git, cukup unduh file `gauss_jordan.html` ke komputer Anda.
 3. **Buka di Browser**: Buka file `gauss_jordan.html` langsung di browser web favorit Anda (seperti Google Chrome, Mozilla Firefox, Microsoft Edge, atau Safari). Anda bisa melakukannya dengan:
    - Mengklik dua kali file tersebut di penjelajah file Anda.
    - Menyeret file tersebut ke jendela browser yang terbuka.
